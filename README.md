@@ -4,20 +4,25 @@
 
 
 
-- 👋 Hi, I’m Suria Sultana
+## - 👋 Hi, I’m Suria Sultana
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on New Projects
-- 📫 How to reach me mail => suraiyasultana826@gmail.com
+- 📫 How to reach me  => suraiyasultana826@gmail.com
 
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,react,mongodb,nodejs,express)](https://skillicons.dev)
 
 
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suraiyasultana826&theme=prussian)](https://git.io/streak-stats)
 
+
+
 <img src='./assets/suraiyasultana826_langs.png'/>
+
 
 
 
