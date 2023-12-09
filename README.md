@@ -8,7 +8,12 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on New Projects
-- 📫 How to reach me  => suraiyasultana826@gmail.com
+##  - 📫 How to reach me 
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraiya-sultana-a76515241/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/suraiya.sultana.tanu/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/suraiya__638/)
+ <!-- => suraiyasultana826@gmail.com -->
 
 ## My Skills
 
@@ -22,7 +27,7 @@
 
 
 
-<img src='./assets/suraiyasultana826_langs.png'/>
+<!-- <img src='./assets/suraiyasultana826_langs.png'/> -->
 
 
 
