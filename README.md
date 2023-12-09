@@ -14,10 +14,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,react,mongodb,nodejs,express)](https://skillicons.dev)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suraiyasultana826&theme=aura_dark)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suraiyasultana826&theme=blueberry)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suraiyasultana826&theme=prussian)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=suraiyasultana826&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suraiyasultana826&theme=blueberry&utcOffset=8)
 
 
 
